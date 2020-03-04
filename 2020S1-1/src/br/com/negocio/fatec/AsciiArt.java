@@ -1,4 +1,4 @@
-package br.com.modelo.fatec;
+package br.com.negocio.fatec;
 
 import java.awt.Font;
 import java.awt.Graphics;
